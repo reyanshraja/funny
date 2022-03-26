@@ -1,0 +1,31 @@
+body{
+background-color:aqua;
+	
+				
+}
+#wrapper{
+width: 1000px;
+hight: 1500px;
+border: double 8px red;
+background-color: white;
+border-radius: 4px;
+margin-right:auto;
+margin-left:auto;
+}
+main{
+padding: 10px;
+}
+.type1{
+	width: 15%;
+	
+	margin-right: 500px;
+	margin-left:400px;
+	margin-top:10px;
+}
+.type2{
+	width: 60%;
+	
+	margin-right: 600px;
+	margin-left:300px;
+	margin-top:10px;
+}
